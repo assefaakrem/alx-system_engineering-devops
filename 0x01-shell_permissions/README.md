@@ -1,1 +1,1 @@
-contains scripts for file permission commands
+scripts related to file permision
